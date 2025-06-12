@@ -1,4 +1,8 @@
-> TALENT WITHOUT WORKING HARD IS NOTHING
+<p align="center">
+  <i>Talent Without Working Hard IS NOTHING</i>
+</p>
+> <p align="center"><b>Talent Without Working Hard IS NOTHING</b></p>
+
 #### 👋 Hi, I’m **Omar Ahmed Abou EL-Eainin**, a Flutter Developer based in Cairo, Egypt.
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/omar-abou-eleinain)
 
